@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  --bg-1: #131212;
+  --bg-2: #2a2929;
+
+  /* color */
+  --color-1: #f93434;
+  --color-2: #ffffff;
+  /* font-family: "Anton", sans-serif; */
+}
