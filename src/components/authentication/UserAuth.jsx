@@ -48,7 +48,7 @@ const UserAuth = () => {
                 <Input type="email" id="email" />
               </div>
               <div className="flex flex-col gap-1">
-                <label htmlFor="password" className="w-fit">å
+                <label htmlFor="password" className="w-fit">
                   Password
                 </label>
                 <Input type="password" id="password" />
